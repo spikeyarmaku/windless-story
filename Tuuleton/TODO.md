@@ -1,9 +1,0 @@
-- ~~fade-out at the end~~
-- ~~positive and negative blink for food meter~~
-- ~~blink wing meter~~
-- ~~fix bug where food meter doesnt decrease at the end~~
-- ~~fix bug where energy is incorrectly decreased at the end~~
-- more tree variants
-- ~~title scene~~
-- ~~exit after the end~~
-- ~~look at food~~
