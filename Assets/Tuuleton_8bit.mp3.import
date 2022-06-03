@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Tuuleton_8bit.mp3-6cd4464acfc7ad20165e38ba3dd36121.mp3str"
+
+[deps]
+
+source_file="res://Assets/Tuuleton_8bit.mp3"
+dest_files=[ "res://.import/Tuuleton_8bit.mp3-6cd4464acfc7ad20165e38ba3dd36121.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

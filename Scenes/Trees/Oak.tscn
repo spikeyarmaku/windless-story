@@ -1,0 +1,18 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Assets/Trees/oak_summer.png" type="Texture" id=1]
+[ext_resource path="res://Assets/Trees/oak_fall.png" type="Texture" id=2]
+[ext_resource path="res://Assets/Trees/oak_winter.png" type="Texture" id=3]
+
+[sub_resource type="SpriteFrames" id=1]
+animations = [ {
+"frames": [ ExtResource( 1 ), ExtResource( 2 ), ExtResource( 3 ) ],
+"loop": true,
+"name": "default",
+"speed": 5.0
+} ]
+
+[node name="Pine" type="AnimatedSprite"]
+use_parent_material = true
+frames = SubResource( 1 )
+offset = Vector2( 16, -24 )
