@@ -101,6 +101,13 @@ func on_step(add):
         # so that there won't be a flickering line between ground tiles
         ground.modulate.a = change_level
         $GroundWinter.add_child(ground)
+    
+    if _current_step >= _winter_start:
+        var snowfall_num : int = (_current_step - _winter_start) / 16
+        print (snowfall_num, " ", $Snow.get_child_count())
+        if $Snow.get_child_count() > snowfall_num:
+            print("ENABLING ", snowfall_num)
+            $Snow.get_child(snowfall_num).visible = true
 
 func advance():
     if _current_step < 342:
@@ -143,9 +150,14 @@ func _put_tree():
     if i < 0.5:
         tree = Oak.instance()
         match _current_season:
-            Season.Summer: tree.frame = 0
-            Season.Fall:   tree.frame = 1
-            Season.Winter: tree.frame = 2
+            Season.Summer: tree.animation = "Summer"
+            Season.Fall:
+                if _current_step <= 180:
+                    tree.animation = "Fall"
+                else:
+                    tree.animation = "LateFall"
+            Season.Winter: tree.animation = "Winter"
+        tree.play()
     else:
         tree = Pine.instance()
         match _current_season:
