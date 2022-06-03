@@ -1,6 +1,8 @@
 # Windless story
 This is a short story based on the song [Tuuleton](https://www.youtube.com/watch?v=qysLqljaREs) from the finnish folk metal band [Korpiklaani](https://korpiklaani.com/).
 
+### [Play it here](https://spikeyarmaku.github.io/windless-story/)
+
 From their [page for Tuuleton](https://korpiklaani.com/?p=958):
 
 ### The meaning of Tuuleton (“The Windless”):
