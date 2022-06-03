@@ -24,7 +24,7 @@ var _current_step : int = 0
 var _accumulator : float = 0
 var _fall_start : int = 34
 var _fall_end : int = 48
-var _winter_start : int = 220
+var _winter_start : int = 224
 var _winter_end : int = 254
 
 enum Season {Summer, Fall, Winter}

@@ -131,6 +131,15 @@ anims/Fall = SubResource( 7 )
 anims/RESET = SubResource( 8 )
 anims/Winter = SubResource( 9 )
 
+[node name="Thrustles1" parent="." instance=ExtResource( 3 )]
+position = Vector2( -2, 16 )
+
+[node name="Thrustles2" parent="." instance=ExtResource( 3 )]
+position = Vector2( -2, 16 )
+
+[node name="Thrustles3" parent="." instance=ExtResource( 3 )]
+position = Vector2( -76, 17 )
+
 [node name="Trees" type="Node2D" parent="."]
 position = Vector2( 0, 74 )
 script = ExtResource( 2 )
@@ -252,12 +261,3 @@ script = ExtResource( 2 )
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2( 80, 82 )
 shape = SubResource( 1 )
-
-[node name="Thrustles1" parent="." instance=ExtResource( 3 )]
-position = Vector2( -2, 16 )
-
-[node name="Thrustles2" parent="." instance=ExtResource( 3 )]
-position = Vector2( -2, 16 )
-
-[node name="Thrustles3" parent="." instance=ExtResource( 3 )]
-position = Vector2( -76, 17 )
