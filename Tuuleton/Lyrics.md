@@ -1,5 +1,53 @@
 A bird-themed story where Windless is an almost flightless bird. He groans when he flies, but it’s not good to be on the ground either. He mourns his inability to fly like the others and is bitter because he is not accepted by the others just because he’s different. Winter is coming and when the nightly frosts arrive it becomes increasingly difficult to survive in the cold ground.
 
+Tuuleton
+
+Tuuleton näitä puita ei koske  
+Sen itku peittänyt kaiken maan  
+Tuuleton voisi hiljainen olla  
+Vaan se yllä kulkiessa huomataan  
+Istuu vaiti, makaa kuura kasvoilla  
+Kun aamu syntyy takaa pimeän
+
+Paikalleen päätyy jokainen meistä  
+Eivät yksin kulje pään yli jäätyneet  
+Saarelle saapuu hiljaiset kurjet  
+Joiden auraan yhtyy jäästä selvinneet  
+Painuu pää, lipuu luopuneen lautta  
+Jään kiilto kuin taivaan kautta hohtaa
+
+Kituvana astuu sammalmättään – Tuuleton  
+Ikijoissa juuret jäätää puita  
+Ikävä ei souda vastaan, istuu vierelle:  
+Ikävässä kaikuni on kovempi!
+
+Alenevan elon vuoksi rastaidenkin  
+Talvitie kulkisi päältäni!  
+Hangella hiljainen Tuuleton!
+
+Pään yltä tuntuu kaikki maa nyt menevän  
+Eivät minua mukaan ottaneet  
+Jään seuraan hiljaa katoavan tuulen  
+Ylitsemme käyvät siipein taipaleet  
+Varjot kuin valoja yllä pimeän maan sylien  
+Valot kuin tuntemattomien askeleet  
+Yölliset kuin päiviä päällä päivätönten kylien  
+Alleni jäähän kylmät jalkani jäätyneet
+
+Kituvana astuu sammalmättään – Tuuleton  
+Joen lautta kylmää jalkaluita  
+Ikävä ei souda vastaan, istuu vierelle:  
+Ikävässä kaikuni on kovempi!
+
+Alenevan elon vuoksi rastaidenkin  
+Talvitie kulkisi päältäni!  
+Rastaiden taipaleet näen jäältäni  
+Talvitie kulkisi päältäni!  
+Hangella hiljainen Tuuleton!
+
+---
+The Windless
+
 The Windless doesn’t touch these trees,
 its crying has covered all the ground.
 The Windless could be the silent one,
